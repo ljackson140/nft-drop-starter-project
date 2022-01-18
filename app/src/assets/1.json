@@ -1,0 +1,19 @@
+{
+    "name": "Zoro",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+        "files": [
+        {
+            "uri": "1.png",
+            "type": "image/png"
+        }
+        ],
+        "creators": [
+        {
+            "address": "Fp1rTpbnYBjm1kh8fKytCGDoa3X3yBZmeWa6TNAeD3Sp",
+            "share": 100
+        }
+        ]
+    }
+}
